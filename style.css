@@ -46,3 +46,12 @@
   .imagem-estudantes{
     width: 120px;
   }
+
+  .imagem-icone{
+    width: 24px;
+  }
+
+  .div-estudantes{
+    text-align: center;
+    padding: 16px 0;
+  }
